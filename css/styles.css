@@ -1,3 +1,9 @@
-body{
-    background-color: rgb(208, 145, 49);
+.green{
+    background-color: green;
+}
+.invisible{
+    visibility: hidden;
+}
+.big{
+    font-size: 10rem;
 }

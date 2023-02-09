@@ -1,3 +1,3 @@
 var heading = document.firstElementChild.lastElementChild.firstElementChild
-heading.innerHTML = "Hello MAFO"
+heading.innerHTML = "Hello Jab"
 heading.style.color = "red"
